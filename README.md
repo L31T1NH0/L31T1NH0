@@ -11,7 +11,7 @@ programação!
 
 
 ## Meus projetos
-- 💻 Confira meu projeto mais recente: https://next-domenyk.vercel.app/
+- 💻 Confira meu projeto mais recente: https://ekoa.site/
 
 - 🌐 Veja meu antigo projeto: https://domenyk.xyz/
 
