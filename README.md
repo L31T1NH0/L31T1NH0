@@ -1,37 +1,39 @@
-## Olá, Eu sou o Leite! 👋 
+## Ola, eu sou o Leite
 
-Atualmente, estou explorando o mundo da programação, estudando diferentes tecnologias e frameworks para
-potenciais projetos futuros. Comecei a programar em Python, mas logo me interessei por interfaces e decidi
-aprender HTML e CSS. No entanto, logo percebi que precisava de mais funcionalidades e, por isso, aprendi
-JavaScript. Apesar de ter aprendido bastante, ainda estava insatisfeito com os resultados e decidi me
-aventurar em algum framework. Atualmente, estou estudando Next.js!
-Estou sempre aberto a dicas de programação e, atualmente, ainda estou no processo de criação de projetos pessoais.
-Sinta-se livre para entrar em contato comigo para compartilhar seus conhecimentos ou apenas para bater um papo sobre
-programação!
+Faco uns projetos por curiosidade, teimosia e vontade de ver ideias virando coisa clicavel.
 
+Comecei com Python, fui mexendo com HTML, CSS e JavaScript, e acabei caindo no buraco do Next.js, React e TypeScript. Nao estou tentando parecer o programador mais serio do mundo; so gosto de criar coisas, quebrar coisas e depois fingir que era parte do processo.
 
 ## Meus projetos
-- 💻 Confira meu projeto mais recente: https://ekoa.site/
 
-- 🌐 Veja meu antigo projeto: https://domenyk.xyz/
+- [domenyk.com](https://domenyk.com)  
+  Meu site/blog pessoal. Um lugar para ideias, textos e experimentos.
 
-## Como entrar em contato comigo
-- 📫 Entre em contato comigo pelo Discord: LEITE#1578
+- [Dynrinth](https://dynrinth.vercel.app)  
+  Uma ferramenta para montar listas de mods e conteudos de Minecraft, resolver dependencias e baixar tudo em pacote.
 
-```
-if (programar && !ficar_feliz) {
-  irDormir();
-} else {
-  passarRaiva();
+## Tecnologias que aparecem por aqui
+
+`TypeScript` `JavaScript` `Next.js` `React` `Python` `Rust` `Tailwind CSS` `Supabase`
+
+## Contato
+
+- GitHub: [@L31T1NH0](https://github.com/L31T1NH0)
+- Site: [domenyk.com](https://domenyk.com)
+
+```rust
+use std::{thread, time::Duration};
+
+fn main() {
+    let mut bug = true;
+
+    while bug {
+        thread::sleep(Duration::from_secs(8 * 60 * 60)); // tentar de novo amanha
+        bug = false; // inexplicavelmente resolvido
+    }
 }
 ```
 
-
 <div align="left">
-  <a href="https://github.com/L31T1NH0">
-  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L31T1NH0&layout=compact&langs_count=7&theme=radical"/>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L31T1NH0&layout=compact&langs_count=8&theme=radical"/>
 </div>
-
