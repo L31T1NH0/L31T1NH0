@@ -1,39 +1,32 @@
-## Ola, eu sou o Leite
+## Olá, eu sou o Leite
 
-Faco uns projetos por curiosidade, teimosia e vontade de ver ideias virando coisa clicavel.
+Faço projetos por curiosidade, teimosia e vontade de ver minhas ideias funcionando. Comecei com Python e fui experimentando outras linguagens conforme os projetos pediam, de aplicações web com Next.js a sincronização de arquivos em Rust e apps para Android.
 
-Comecei com Python, fui mexendo com HTML, CSS e JavaScript, e acabei caindo no buraco do Next.js, React e TypeScript. Nao estou tentando parecer o programador mais serio do mundo; so gosto de criar coisas, quebrar coisas e depois fingir que era parte do processo.
+## Projetos em destaque
 
-## Meus projetos
+- **[Rowd](https://github.com/L31T1NH0/Rowd)**  
+  Meu projeto principal e favorito. Sincroniza pastas entre Linux e Android pela rede local, sem conta na nuvem. Feito com Rust e Kotlin, ainda em fase alfa.
 
-- [domenyk.com](https://domenyk.com)  
-  Meu site/blog pessoal. Um lugar para ideias, textos e experimentos.
+- **[domenyk.com](https://domenyk.com)**  
+  Meu blog pessoal sobre política. É onde escrevo minhas ideias e opiniões sobre o assunto, não um blog de programação.
 
-- [Dynrinth](https://dynrinth.vercel.app)  
-  Uma ferramenta para montar listas de mods e conteudos de Minecraft, resolver dependencias e baixar tudo em pacote.
+- **[Dynrinth](https://github.com/L31T1NH0/Dynrinth)**  
+  Meu hub de download de mods de Minecraft. Reúne conteúdos do Modrinth e CurseForge, resolve dependências e permite baixar tudo em um pacote. [Abrir o hub](https://dynrinth.vercel.app).
 
-## Tecnologias que aparecem por aqui
+- **[Lanva](https://github.com/L31T1NH0/Lanva)**  
+  App para rodar um servidor Minecraft Java com Fabric no Android, com instalações separadas por versão e acesso aos arquivos do servidor.
 
-`TypeScript` `JavaScript` `Next.js` `React` `Python` `Rust` `Tailwind CSS` `Supabase`
+## Tecnologias que uso
+
+**Linguagens:** Rust, TypeScript, JavaScript, Python, Kotlin, Java e C.
+
+**Web:** Next.js, React, Tailwind CSS, HTML e CSS.
+
+**Desktop e Android:** Slint, Android SDK e Gradle.
+
+**Dados e serviços:** MongoDB, Clerk e Vercel.
 
 ## Contato
 
 - GitHub: [@L31T1NH0](https://github.com/L31T1NH0)
-- Site: [domenyk.com](https://domenyk.com)
-
-```rust
-use std::{thread, time::Duration};
-
-fn main() {
-    let mut bug = true;
-
-    while bug {
-        thread::sleep(Duration::from_secs(8 * 60 * 60)); // tentar de novo amanha
-        bug = false; // inexplicavelmente resolvido
-    }
-}
-```
-
-<div align="left">
-  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L31T1NH0&layout=compact&langs_count=8&theme=radical"/>
-</div>
+- Blog de política: [domenyk.com](https://domenyk.com)
